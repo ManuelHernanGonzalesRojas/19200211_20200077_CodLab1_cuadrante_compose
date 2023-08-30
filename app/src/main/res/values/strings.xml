@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">19200211_20200077_cuadrante_compose</string>
+    <string name="texto_componible">Texto Componible</string>
+    <string name="muestra_texto_y_sigue_las_pautas_recomendadas_de_material_design">Muestra texto y sigue las pautas recomendadas de Material Design.</string>
+    <string name="crea_un_elemento_componible_que_dise_a_y_dibuja_un_objeto_de_clase_painter_determinado">Crea un elemento componible que diseña y dibuja un objeto de clase Painter determinado.</string>
+    <string name="imagen_componible">Imagen componible</string>
+    <string name="fila_componible">Fila componible</string>
+    <string name="un_dise_o_componible_que_coloca_a_sus_elementos_secundarios_en_una_secuencia_horizontal">Un diseño componible que coloca a sus elementos secundarios en una secuencia horizontal.</string>
+    <string name="columna_componible">Columna componible</string>
+    <string name="un_dise_o_componible_que_coloca_a_sus_elementos_secundarios_en_una_secuencia_vertical">Un diseño componible que coloca a sus elementos secundarios en una secuencia vertical.</string>
+</resources>
